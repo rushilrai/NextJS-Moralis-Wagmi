@@ -1,0 +1,25 @@
+{
+    "name": "poc",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@moralisweb3/common-evm-utils": "^2.14.3",
+        "@moralisweb3/next": "^2.14.3",
+        "ethers": "^5.7.2",
+        "moralis": "^2.14.3",
+        "next": "^13.2.4",
+        "next-auth": "^4.20.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "wagmi": "^0.12.1"
+    }
+}
